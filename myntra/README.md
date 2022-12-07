@@ -1,38 +1,5 @@
-**A collaborative project from Masai school.**
-
-*Myntra clone.*
 
 
-First of all, I want to thank the Masai school for giving me this opportunity to work on a collaborative project and enhance my coding skills.
-we learned a lot while working on this project. we failed so many times and we never give up, in the last we finally made our Project successfully.
-
-**Team-Members.**
-
-Md Sahil Amaan.
-
-Amit Prakash.
-
-Sumit Bokshi.
-
-Sagar Pawar.
-
-Aadarsh Mukati.
-
-Prajjwal pal.
-
-**In the construct week.**
-
-This is our first collaborative project from the Masai school, and we got only 1 week to complete it, 
-so it was a challenging journey for us. we faced a lot of challenges because we don’t work before on any collaborative project and 
-we have to complete it on time, so we first decide to study our website and then divide our work. we learned a lot while working together, 
-we failed a lot of times but we never give up, we used to help each other solve the problems of our project, and in the last, we finally made our project successfully.
-
-**Description of Project.**
-
-The Masai school give our team to clone the website Myntra. 
-Myntra is a major Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. 
-The company was founded in 2007 to sell personalized gift items. In May 2014, Myntra.com was acquired by Flipkart.
-we gave our best to clone this website.
 
 **Images of our project.**
 
