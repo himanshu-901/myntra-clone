@@ -69,20 +69,6 @@ This is our order confirmed page, after placing and choosing the payment method 
 
 ![image](https://user-images.githubusercontent.com/77974484/161433073-291a3727-c191-42ad-be92-dd453264de10.png)
 
-**Collaboration tools.**
-
-*Git and Github.*
-
-Git: Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows
-Github: GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its features.
-https://github.com/Md-sahil-a/myntra this is our project git hub link.
-We all became proficient in reading the code of team members. and we learned How to work and communicate with a team. and how to keep motivated each other throughout the problems.
-
-**Blog Link**
-
-https://mdsahilamaan2017.medium.com/a-collaborative-project-from-masai-school-e255331475
-
-**At last, I would like to thank our mentors and my team members for their support & guidance during the project.**
 
 
 
